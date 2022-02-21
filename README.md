@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/JieonKim-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/jaykimma920@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <p>
-  👋 Hi there! I'm a <b>front-end web developer</b> ready to flourish! 🚀
+  👋 Hi there! I'm a <b>front-end web developer</b> ready to flourish! 🚀 
   <br>
   <br>
   🇰🇷 Born in <i>South Korea</i> <br>
